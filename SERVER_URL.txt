@@ -1,0 +1,2 @@
+배포 후 받은 HTTPS 주소를 APK 첫 실행 화면에 입력하세요.
+예: https://open-mouth-xxxx.onrender.com
